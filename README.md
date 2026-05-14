@@ -146,12 +146,6 @@ Potential enhancements for the platform include:
 * API integration for procurement systems
 
 ---
-
-## Screenshots
-```md
-```[Scorecard – Microsoft – EU AI Act.pdf](https://github.com/user-attachments/files/27751248/Scorecard.Microsoft.EU.AI.Act.pdf)
----
-
 ## Installation
 
 ```bash
