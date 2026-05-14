@@ -148,16 +148,8 @@ Potential enhancements for the platform include:
 ---
 
 ## Screenshots
-
-You can insert screenshots from the demo video here.
-
 ```md
-![Dashboard](images/dashboard.png)
-![Risk Classification](images/risk-classification.png)
-![Compliance Assessment](images/compliance-assessment.png)
-![Results](images/results.png)
-```
-
+```[Scorecard – Microsoft – EU AI Act.pdf](https://github.com/user-attachments/files/27751248/Scorecard.Microsoft.EU.AI.Act.pdf)
 ---
 
 ## Installation
